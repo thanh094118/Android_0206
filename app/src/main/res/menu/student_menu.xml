@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_update" android:title="Cập nhật" />
+    <item android:id="@+id/menu_delete" android:title="Xóa" />
+    <item android:id="@+id/menu_call" android:title="Gọi điện" />
+    <item android:id="@+id/menu_email" android:title="Gửi email" />
+</menu>
